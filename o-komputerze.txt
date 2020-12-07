@@ -1,3 +1,56 @@
 informacje o systemie operacyjnym komputera: Linux asia-B365MHD3 5.4.0-56-generic #62-Ubuntu SMP Mon Nov 23 19:20:19 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
 
+MemTotal:        8094140 kB
+MemFree:         4367932 kB
+MemAvailable:    6110300 kB
+Buffers:          165280 kB
+Cached:          1832572 kB
+SwapCached:            0 kB
+Active:          2466172 kB
+Inactive:         862284 kB
+Active(anon):    1332952 kB
+Inactive(anon):   127064 kB
+Active(file):    1133220 kB
+Inactive(file):   735220 kB
+Unevictable:          32 kB
+Mlocked:              32 kB
+SwapTotal:       2097148 kB
+SwapFree:        2097148 kB
+Dirty:               100 kB
+Writeback:             0 kB
+AnonPages:       1330680 kB
+Mapped:           566796 kB
+Shmem:            129408 kB
+KReclaimable:     178732 kB
+Slab:             309280 kB
+SReclaimable:     178732 kB
+SUnreclaim:       130548 kB
+KernelStack:       12016 kB
+PageTables:        19188 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     6144216 kB
+Committed_AS:    5221720 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       34080 kB
+VmallocChunk:          0 kB
+Percpu:             7328 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      273412 kB
+DirectMap2M:     8056832 kB
+DirectMap1G:           0 kB
 
