@@ -1,1 +1,1 @@
-# lista4
+Tworzymy pierwsze prawdziwe gałęzie, hurra!
