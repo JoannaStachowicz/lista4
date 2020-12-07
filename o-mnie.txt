@@ -1,1 +1,4 @@
 mój numer indeksu to: 324807
+
+Podobało mi się projektowanie sumatora 3-bitowego na logice, ilustrowało to idealnie przenikanie się matematyki z informatyką.
+
